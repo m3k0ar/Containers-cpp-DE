@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Armand/eclipse-workspace/container/main.cpp
+iostream
+-
+string
+-
+fstream
+-
+vector
+-
+list
+-
+deque
+-
+stack
+-
+queue
+-
+map
+-
+
